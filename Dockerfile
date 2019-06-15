@@ -1,7 +1,7 @@
 # Docker container for nano editor.
 # Version 0.1
 
-FROM ubuntu:14.04
+FROM ubuntu
 
 MAINTAINER Tazro Inutano Ohta, inutano@gmail.com
 
